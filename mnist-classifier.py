@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 """Simple Mnist Classifier"""
 
 """Hyper Parameters"""
-batch_size = 128
+batch_size = 64
 in_dim = 28*28
 img_size = 28
 num_classes = 10
